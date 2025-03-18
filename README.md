@@ -35,11 +35,11 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 - **`mostrarResultados()`**: Muestra los resultados en pantalla.
 
 ## 📸 Capturas de Pantalla
-_Agrega aquí imágenes de la aplicación en funcionamiento_
+![imagen](https://github.com/user-attachments/assets/7fa2f1c5-4f15-44e6-a7df-956e2cc00334)
+
 
 ## 📜 Licencia
 Este proyecto está bajo la licencia MIT. ¡Úsalo y modifícalo libremente!
 
 ---
-Hecho con ❤️ por [Tu Nombre]
-
+Hecho por Vallador
